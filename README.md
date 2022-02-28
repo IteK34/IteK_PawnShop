@@ -1,8 +1,8 @@
 # IteK_PawnShop
 
-Script PawnShop en RageUI V2.
+Script PawnShop RageUI V2.
 
-0.00ms à froid
+0.00ms
 
 Preview : https://youtu.be/IAZQxBS_7jM
 
